@@ -1,5 +1,5 @@
 # 👨🏼‍🎨 About Me:
-👋 Hi, I’m Farzan Yaz!<br>🎓 I'm a 4th-year Computer Science student at McMaster on an internship.<br>🥥 I'm interning at Coconut Software as a Junior Software Developer!<br>💻 I'm currently learning Laravel, React, PHP, and MySQL as part of my full-stack role at Coconut Software.<br>🎥 I create programming content on [YouTube](https://www.youtube.com/@farzany) and my personal [website](https://farzanyaz.com/posts) as blog posts.<br>⚡️ Fun fact - I have over 2000 hours on CSGO!
+👋 Hi, I’m Farzan Yaz!<br>🎓 I'm a 5th-year Computer Science student at McMaster.<br>🥥 I interned at Coconut Software as a Junior Software Developer!<br>💻 I'm currently creating with Next.js, React, Prisma, and PostgreSQL.<br>🎥 I create programming content on [YouTube](https://www.youtube.com/@farzany) and my personal [website](https://farzanyaz.com/posts) as blog posts.<br>⚡️ Fun fact - I have over 2000 hours on CSGO!
 
 
 ## 🌐 Socials:
