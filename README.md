@@ -3,7 +3,7 @@
 
 ## Websites
 - [Nobility Pay](https://www.nobilitypay.com)
-- [Inshallah](https://www.inshallaah.com)
+- [Inshallaah](https://www.inshallaah.com)
 - [Devdle](https://www.devdle.com)
 - [Personal Website](https://www.farzanyaz.com)
 
