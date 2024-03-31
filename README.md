@@ -1,7 +1,11 @@
 # 👨🏼‍🎨 About Me:
 👋 Hi, I’m Farzan Yaz!<br>🎓 I'm a 5th-year Computer Science student at McMaster.<br>🥥 I interned at Coconut Software as a Junior Software Developer!<br>💻 I'm currently creating with TypeScript, Next.js, React, Prisma, and PostgreSQL.<br>🎥 I create programming content on [YouTube](https://www.youtube.com/@farzany) and my personal [website](https://farzanyaz.com/posts) as blog posts.<br>⚡️ Fun fact - I have nearly 3000 hours on CSGO!
 
-
+## Websites
+- [Nobility Pay](https://www.nobilitypay.com)
+- [Inshallah](https://www.inshallah.com)
+- [Devdle](https://www.devdle.com)
+- [Personal Website](https://www.farzanyaz.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farzany) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farzany) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/farzanyaz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@farzany) 
