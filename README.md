@@ -2,6 +2,7 @@
 👋 Hi, I’m Farzan Yaz!<br>🎓 I'm a Computer Science graduate from McMaster.<br>🥥 I work at Coconut Software as an Intermediate Software Developer!<br>💻 I'm currently creating with TypeScript, Next.js, React, Prisma, Supabase, and PostgreSQL.<br>🎥 I create programming content on [YouTube](https://www.youtube.com/@farzany).<br>⚡️ Fun fact - I have nearly 3000 hours on CSGO!
 
 ## Websites
+- [Career Logs](https://www.careerlogs.app)
 - [Whisper Snackbar](https://whisper-snackbar.vercel.app/)
 - [Continuous Calendar](https://continuous-calendar.vercel.app/)
 - [Nobility Pay](https://www.nobilitypay.com)
